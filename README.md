@@ -9,6 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avanvaghani/)
 [![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avanvaghani)
 
+![Profile Views](https://komarev.com/ghpvc/?username=avanvaghani&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </div>
 
 ---
@@ -20,6 +22,15 @@
 - Building frameworks with **Playwright, Cypress & WebDriverIO**
 - Exploring **AI-driven testing** and **performance engineering**
 - Based in **Bhavnagar, Gujarat, India**
+
+---
+
+## What I'm Working On
+
+- Building **self-healing tests** powered by LLMs to cut flaky-test maintenance
+- Exploring **crypto / fintech QA** — wallet flows, KYT, precision testing for financial data
+- Diving into **performance engineering** with k6 and load-testing strategies
+- Sharpening **CI/CD test orchestration** — parallelization, sharding, smart retries
 
 ---
 
@@ -59,6 +70,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|:----------:|
+| [**AI Self-Healing Playwright**](https://github.com/avanvaghani/ai-self-healing-playwright) | Self-healing E2E tests that auto-recover from broken locators using LLM-based element detection | TypeScript Playwright AI |
 | [**Playwright Automation Framework**](https://github.com/avanvaghani/playwright-automation-framework) | Full-scale UI + API automation framework with POM, custom fixtures, Winston logging & HTML reporting | TypeScript Playwright |
 | [**OTP 2FA Automation**](https://github.com/avanvaghani/otp-2fa-automation) | Automates TOTP-based 2FA login flows — generates OTP codes programmatically, no phone needed | JavaScript Playwright Speakeasy |
 | [**AI Automation Framework**](https://github.com/avanvaghani/ai-automation-framework) | AI-enhanced test automation framework with intelligent element detection | TypeScript Playwright |
@@ -78,6 +90,12 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanvaghani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=avanvaghani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 
 </div>
 
